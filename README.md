@@ -18,7 +18,7 @@ Step 3. Open Config.ini file in Notepad++ and Enter the main_Phone Number (choos
         also enter the target Group username in 
         "from_channel" and put your group username in "to_channel"
 
-Step 4. Now run the login file and enter OTPs and then login session will be saved in sessions folder
+Step 4. Create a empty folder with "sessions" as name. Now run the login file and enter OTPs and then login session will be saved in sessions folder
 
 Step 5. Run Export file and scrap the members those members will be saved in unf.csv
 
